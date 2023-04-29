@@ -1,0 +1,14 @@
+$joao: blue;
+$tamanhodafonte: 100px;
+$corfundo:green;
+
+ul {
+    font-size: $tamanhodafonte;
+    color: $joao;
+    background-color: $corfundo;
+}
+
+ol {
+    font-size: 18px;
+    color: $joao;
+}
